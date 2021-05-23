@@ -9,6 +9,9 @@
 <p>Aside from my web-scraping experience I've been interested on developing API's with Flask help or PHP, my most "joke-a-like" project was a script that scraped various BIN/IIN numbers from a public DB and I stored them on a database, after that I made an API that used to sent data based on the users input (such like BIN/IIN number, country of the BIN/IIN, bank of the BIN/IIN).</p>
 
 <p>One of my TOP-TIER projects is, right now, on development, it's a bot made for telegram that will look-up for stock prices based on the user favorite stocks, it will even alert ifthe price is above/below an user determined price.</p>
+
+<p>Nowadays I'm looking to make some bots/scripts/programs on another languages such as: C++ or Java</p>
+
 ---
 
 ### My Social Media :D
@@ -59,5 +62,14 @@
 <br />
 
 ---
+  
+### To-Do:
+  <li>Create an OS</li>
+  <li>Learn about Front-End</li>
+  <li>Create an useful API</li>
+  <li>Create an Android App</li>
+  <li>Create a Python Module</li>
 
+  
+---
 [![freshSauce's github stats](https://github-readme-stats.vercel.app/api?username=freshSauce&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
