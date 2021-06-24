@@ -72,4 +72,4 @@
 
   
 ---
-![freshSauce's github stats](https://github-readme-stats.vercel.app/api?username=freshSauce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&line_height=20)
+[![freshSauce's github stats](https://github-readme-stats.vercel.app/api?username=freshSauce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&line_height=20)](https://github.com/freshSauce)
