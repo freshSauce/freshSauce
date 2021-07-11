@@ -70,6 +70,9 @@
   <li>Create an Android App</li>
   <li>Create a Python Module</li>
 
+### Others:
+
+  * <a href='https://coursera.org/share/91ae0d171ba05840a368b66ff9472e14'>Introduction to Data Science - University of Michigan and Coursera</a>
   
 ---
 [![freshSauce's github stats](https://github-readme-stats.vercel.app/api?username=freshSauce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&line_height=20)](https://github.com/freshSauce)
