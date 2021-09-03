@@ -6,7 +6,7 @@
 
 <p>I started coding when I was 16/17 y/o, but just on a "hobbie" level, I never took it professionally since a year ago. I remember that when I was younger (maybe 8 to 10 years old) I was really interested on programming but I never learned becausethe only language I knew was C++ and, for a young kid, it was preeetty hard to understand what was goin on while programming (I have to admit that my logic-skills and english weren't that good)</p>
 
-<p>Aside from my web-scraping experience I've been interested on developing API's with Flask help or PHP, my most "joke-a-like" project was a script that scraped various BIN/IIN numbers from a public DB and I stored them on a database, after that I made an API that used to sent data based on the users input (such like BIN/IIN number, country of the BIN/IIN, bank of the BIN/IIN).</p>
+<p>Aside from my web-scraping experience I've been interested on developing API's with Flask or PHP, my most "joke-a-like" project was a script that scraped various BIN/IIN numbers from a public DB and I stored them on a database, after that I made an API that used to sent data based on the users input (such like BIN/IIN number, country of the BIN/IIN, bank of the BIN/IIN).</p>
 
 <p>One of my TOP-TIER projects is, right now, on development, it's a bot made for telegram that will look-up for stock prices based on the user favorite stocks, it will even alert ifthe price is above/below an user determined price.</p>
 
