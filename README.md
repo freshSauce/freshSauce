@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-<p>Well, uh... hi there! My name is Valentino Vazquez, I'm from Mexico and I'm 20 y/o. :smile: I'm a Back-End Junior Developer (looking to learn about Front-End so I can be Full-Stack). I'm a HUGE Python fan (almost 90% of my codes are written in Python) as it is very useful because I'm kind of "specialized" on web-scraping. I've done some private-scrapers for sites like: <bold>Facebook</bold>, <bold>Instagram</bold>, <bold>Twitter</bold>, <bold>Nike</bold> and even <bold>Google</bold> (pretty ironic, isn't it? haha), just to mention some.</p>
+<p>Well, uh... hi there! My name is Valentino Vazquez, I'm from Mexico and I'm 21 y/o. :smile: I'm a Back-End Junior Developer (looking to learn about Front-End so I can be Full-Stack). I'm a HUGE Python fan (almost 90% of my codes are written in Python) as it is very useful because I'm kind of "specialized" on web-scraping. I've done some private-scrapers for sites like: <bold>Facebook</bold>, <bold>Instagram</bold>, <bold>Twitter</bold>, <bold>Nike</bold> and even <bold>Google</bold> (pretty ironic, isn't it? haha), just to mention some.</p>
 
 <p>I started coding when I was 16/17 y/o, but just on a "hobbie" level, I never took it professionally since a year ago. I remember that when I was younger (maybe 8 to 10 years old) I was really interested on programming but I never learned becausethe only language I knew was C++ and, for a young kid, it was preeetty hard to understand what was goin on while programming (I have to admit that my logic-skills and english weren't that good)</p>
 
