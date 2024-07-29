@@ -30,7 +30,7 @@
 <br />
 ### Softwares:
 
-<img align="left" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" title="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
 <a href="https://www.postman.com/" target="_blank"> <img align="left" title="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> </a>
 <a href="https://portswigger.net/burp" target="_blank"> <img align="left" title="Burp Suite" width="26px" src="https://raw.githubusercontent.com/freshSauce/freshSauce/9ff85504a0514e7c3fa57e860c0504e274323cb9/icons/method-draw-image.svg"/> </a>
   
