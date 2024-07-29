@@ -2,15 +2,11 @@
 
 ### Who am I?
 
-<p>Well, uh... hi there! My name is Valentino Vazquez, I'm from Mexico and I'm 21 y/o. :smile: I'm a Back-End Junior Developer (looking to learn about Front-End so I can be Full-Stack). I'm a HUGE Python fan (almost 90% of my codes are written in Python) as it is very useful because I'm kind of "specialized" on web-scraping. I've done some private-scrapers for sites like: <bold>Facebook</bold>, <bold>Instagram</bold>, <bold>Twitter</bold>, <bold>Nike</bold> and even <bold>Google</bold> (pretty ironic, isn't it? haha), just to mention some.</p>
+<p>Hi!, I'm Netzha Belmonte and I'm 22 years old. I'm a Python Developer that enjoys teaching as well as learning everything related to Python and programming.</p>
 
-<p>I started coding when I was 16/17 y/o, but just on a "hobbie" level, I never took it professionally since a year ago. I remember that when I was younger (maybe 8 to 10 years old) I was really interested on programming but I never learned becausethe only language I knew was C++ and, for a young kid, it was preeetty hard to understand what was goin on while programming (I have to admit that my logic-skills and english weren't that good)</p>
+<p>I started coding when I was 16/17 y/o, but just on a "hobbie" level. I remember that when I was younger (maybe 8 to 10 years old) I was really into programming but I never learned because the only language I knew was C++ and, for a young kid, it was hard to understand what was going on while programming</p>
 
-<p>Aside from my web-scraping experience I've been interested on developing API's with Flask or PHP, my most "joke-a-like" project was a script that scraped various BIN/IIN numbers from a public DB and I stored them on a database, after that I made an API that used to sent data based on the users input (such like BIN/IIN number, country of the BIN/IIN, bank of the BIN/IIN).</p>
-
-<p>One of my TOP-TIER projects is, right now, on development, it's a bot made for telegram that will look-up for stock prices based on the user favorite stocks, it will even alert ifthe price is above/below an user determined price.</p>
-
-<p>Nowadays I'm looking to make some bots/scripts/programs on another languages such as: C++ or Java</p>
+<p>Right now, I'm specialized on developing APIs and Web Scraping services. Also I've developed tons of Telegram bots thus I'm well too familiarized with its API.</p>
 
 ---
 
@@ -35,40 +31,24 @@
 ### Softwares:
 
 <img align="left" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.vim.org/" target="_blank"> <img align="left" title="VIM" width="26px" src="https://cdn.worldvectorlogo.com/logos/vim.svg"/> </a> 
-<a href="https://atom.io/" target="_blank"> <img align="left" title="Atom" width="26px" src="https://cdn.worldvectorlogo.com/logos/atom-4.svg"/> </a> 
 <a href="https://www.postman.com/" target="_blank"> <img align="left" title="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> </a>
 <a href="https://portswigger.net/burp" target="_blank"> <img align="left" title="Burp Suite" width="26px" src="https://raw.githubusercontent.com/freshSauce/freshSauce/9ff85504a0514e7c3fa57e860c0504e274323cb9/icons/method-draw-image.svg"/> </a>
   
 <br />
 <br />
   
-### OS:
-<img align="left" title="Ubuntu" width="26px" src="https://camo.githubusercontent.com/c100a44b540f6bcea3f7bae169d5f75b44e8994a83deeaf2e9b7e7f9523c8bd3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7562756e74752e737667"/> 
-<img align="left" title="Windows" width="26px" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667"/>
-  
-<br />
-<br />
   
 ### Others:
 
-<img align="left" title="SQLite" width="26px" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg"/>
-<img align="left" title="MySQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"/>
 <img align="left" title="PostgreSQL" width="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/>
+<img align="left" title="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg">
+
 
 
 <br />
 <br />
 
 ---
-  
-### To-Do:
-  <li>Create an OS</li>
-  <li>Learn about Front-End</li>
-  <li>Create an useful API (WIP)</li>
-  <li>Create an Android App</li>
-  <li>Create a Python Module (WIP)</li>
-
 ### Others:
 
   * <a href='https://coursera.org/share/91ae0d171ba05840a368b66ff9472e14'>Introduction to Data Science - University of Michigan and Coursera</a>
